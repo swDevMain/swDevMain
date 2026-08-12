@@ -41,12 +41,3 @@
   <img src="https://shields.io">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
-
-<br>
-
-## 🏅 Stats
-
-<div align="center">
-  <img src="https://vercel.app" />
-  <img src="https://vercel.app" />
-</div>
